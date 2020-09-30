@@ -20,4 +20,4 @@ NOTE:
 - &lt;&lt;Working Folder>> needs to be replaced with the path to working folder within this code. For example, if you have cloned this repository on the folder called "C:\codebase" then the value for "Working Folder" would be "C:\codebase\quick-ansible-vault\working". Also you need to make sure that this folder is added in the Docker -> Resources -> FILE SHARING.
 
 # Credits
-This repository re-uses the docker image [docker-ubi8-ansible"](https://github.com/geerlingguy/docker-ubi8-ansible) created by [@geerlingguy](https://github.com/geerlingguy).
+This repository re-uses the docker image [docker-ubi8-ansible](https://github.com/geerlingguy/docker-ubi8-ansible) created by [@geerlingguy](https://github.com/geerlingguy).
