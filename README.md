@@ -15,5 +15,5 @@ Execute//Run the Docker Container and generate the encrypted file using the comm
 ```
 docker run --env password=<<Password>> --mount type=bind,source=<<Working Folder>>,target=/var/working quick-ansible-vault:v1
 ```
-<<Passowrd>> needs to be replaced with appropriate password that you would like to utilize.
-<<Working Folder>> needs to be replaced with the path to working folder within this code. 
+&lt;&lt;Passowrd>> needs to be replaced with appropriate password that you would like to utilize.
+&lt;&lt;Working Folder>> needs to be replaced with the path to working folder within this code. 
